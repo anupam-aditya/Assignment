@@ -1,6 +1,6 @@
 # Database Schema
 
-#### To store the product data and track the status of each processing request, we can use the following database schema:
+#### To store the product data and track the status of each processing request, we have used the following database schema:
 
 1. SQL commands to create the schema
 
